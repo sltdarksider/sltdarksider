@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sltdarksider
-- 👀 I’m interested in java c++ c android.
+- 👋 Hi, I’m Soyel Akter Habib
+- 👀 I’m interested in java c++ c android and also in AI Automation.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me: Email-soyelaktarkhan77@gmail.com
